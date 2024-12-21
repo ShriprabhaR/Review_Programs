@@ -1,0 +1,14 @@
+C:\Users\HP\Review_Programs\ReviewPrgrams\ReviewPrgrams\bin\Debug\netcoreapp3.1\ReviewPrgrams.exe
+C:\Users\HP\Review_Programs\ReviewPrgrams\ReviewPrgrams\bin\Debug\netcoreapp3.1\ReviewPrgrams.deps.json
+C:\Users\HP\Review_Programs\ReviewPrgrams\ReviewPrgrams\bin\Debug\netcoreapp3.1\ReviewPrgrams.runtimeconfig.json
+C:\Users\HP\Review_Programs\ReviewPrgrams\ReviewPrgrams\bin\Debug\netcoreapp3.1\ReviewPrgrams.runtimeconfig.dev.json
+C:\Users\HP\Review_Programs\ReviewPrgrams\ReviewPrgrams\bin\Debug\netcoreapp3.1\ReviewPrgrams.dll
+C:\Users\HP\Review_Programs\ReviewPrgrams\ReviewPrgrams\bin\Debug\netcoreapp3.1\ReviewPrgrams.pdb
+C:\Users\HP\Review_Programs\ReviewPrgrams\ReviewPrgrams\obj\Debug\netcoreapp3.1\ReviewPrgrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Review_Programs\ReviewPrgrams\ReviewPrgrams\obj\Debug\netcoreapp3.1\ReviewPrgrams.AssemblyInfoInputs.cache
+C:\Users\HP\Review_Programs\ReviewPrgrams\ReviewPrgrams\obj\Debug\netcoreapp3.1\ReviewPrgrams.AssemblyInfo.cs
+C:\Users\HP\Review_Programs\ReviewPrgrams\ReviewPrgrams\obj\Debug\netcoreapp3.1\ReviewPrgrams.csproj.CoreCompileInputs.cache
+C:\Users\HP\Review_Programs\ReviewPrgrams\ReviewPrgrams\obj\Debug\netcoreapp3.1\ReviewPrgrams.sourcelink.json
+C:\Users\HP\Review_Programs\ReviewPrgrams\ReviewPrgrams\obj\Debug\netcoreapp3.1\ReviewPrgrams.dll
+C:\Users\HP\Review_Programs\ReviewPrgrams\ReviewPrgrams\obj\Debug\netcoreapp3.1\ReviewPrgrams.pdb
+C:\Users\HP\Review_Programs\ReviewPrgrams\ReviewPrgrams\obj\Debug\netcoreapp3.1\ReviewPrgrams.genruntimeconfig.cache

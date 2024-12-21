@@ -8,7 +8,7 @@ namespace ReviewPrgrams
         {
             SnakeLadder.SnakeLdderGame();
 
-            SnakeLadder.DiceRoll();
+            SnakeLadder.Game();
         }
     }
 }

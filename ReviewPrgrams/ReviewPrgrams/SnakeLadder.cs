@@ -6,7 +6,6 @@ namespace ReviewPrgrams
 {
     internal class SnakeLadder
     {
-
         public static void SnakeLdderGame()
         {
             int StartPos = 0;

@@ -11,6 +11,10 @@ namespace ReviewPrgrams
             int StartPos = 0;
             Console.WriteLine("One person started the game from position 0");
 
+           
+        }
+        public static void DiceRoll()
+        {
             Random Dice = new Random();
             Dice.Next(1, 7);
         }

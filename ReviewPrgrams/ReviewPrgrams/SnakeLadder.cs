@@ -6,16 +6,14 @@ namespace ReviewPrgrams
 {
     internal class SnakeLadder
     {
-        public static void Main(string[] args)
+
+        public static void SnakeLdderGame()
         {
-            List<int> Snakes = new List<int> { 3, 14, 23, 41 };
+            int StartPos = 0;
+            Console.WriteLine("One person started the game from position 0");
 
-            List<int> Ladder = new List<int> { 9, 18, 37, 29 };
-
-
-            int Start = 0;
             Random Dice = new Random();
-
+            Dice.Next(1, 7);
         }
 
     }

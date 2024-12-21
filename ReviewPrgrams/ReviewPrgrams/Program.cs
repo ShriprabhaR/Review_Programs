@@ -6,7 +6,7 @@ namespace ReviewPrgrams
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            SnakeLadder.SnakeLdderGame();
         }
     }
 }
